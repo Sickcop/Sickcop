@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Juan Hurtado</h1>
 <p align="center">I´m a frontend developer passionate about design and user interaction</p>
-<img align="center" src="https://img.itch.zone/aW1nLzI2NDQ5NDkucG5n/original/3CDxl1.png](https://i.pinimg.com/originals/90/06/a2/9006a2e5783390123fade3426023ab5b.png"/>
+<img align="center" src="https://raw.githubusercontent.com/Sickcop/Sickcop/main/Banner%20canal_Mesa%20de%20trabajo%201_Mesa%20de%20trabajo%201_Mesa%20de%20trabajo%201.jpg"/>
 
 - 🎯 **Goal:** Continuously improve my programming skills to materialize my ideas and become a senior developer.
 - 🌱 **Mission:** Take user interaction to the next level with each line of code.
@@ -26,6 +26,9 @@
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+   <img alt="Php" src="https://img.shields.io/badge/php-%23007ACC.svg?style=for-the-badge&logo=php&logoColor=white"/>
+   <img alt="Php" src="https://img.shields.io/badge/wordpress-%23007ACC.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
+   
 </div>
 
 <h4 align="center">Design tools</h4>
