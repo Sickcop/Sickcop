@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Juan Hurtado</h1>
 <p align="center">I´m a frontend developer passionate about design and user interaction</p>
-![](https://github.com/Sickcop/technical-test/blob/master/screenshots/Screenshot%202024-06-14%20124533.png)
+<img align="center" src="https://img.itch.zone/aW1nLzI2NDQ5NDkucG5n/original/3CDxl1.png](https://i.pinimg.com/originals/90/06/a2/9006a2e5783390123fade3426023ab5b.png"/>
 
 - 🎯 **Goal:** Continuously improve my programming skills to materialize my ideas and become a senior developer.
 - 🌱 **Mission:** Take user interaction to the next level with each line of code.
