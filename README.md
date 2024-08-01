@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Juan Hurtado</h1>
-<p align="center">I´m a frontend developer passionate about design and user interaction</p>
+<p align="center">I´m a full-stack developer passionate about design and user interaction</p>
 <img align="center" src="https://raw.githubusercontent.com/Sickcop/Sickcop/main/Banner%20canal_Mesa%20de%20trabajo%201_Mesa%20de%20trabajo%201_Mesa%20de%20trabajo%201.jpg"/>
 
 - 🎯 **Goal:** Continuously improve my programming skills to materialize my ideas and become a senior developer.
