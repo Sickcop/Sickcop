@@ -6,7 +6,6 @@
 - 🌱 **Mission:** Take user interaction to the next level with each line of code.
 - 📬 **Contact Me:**
    - Email: [sickcop89@gmail.com](mailto:sickcop89@gmail.com)
-   - Phone: [+57 3013500605](https://wa.me/573013500605)
    - LinkedIn: [Juan Manuel Hurtado Isaza](https://www.linkedin.com/in/juan-manuel-hurtado-isaza-1311082b5/)
 
 
